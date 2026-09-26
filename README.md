@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **laoli006/laoli006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi, I'm Kerry 👋
+
+I enjoy understanding computing systems from the ground up — from the physical principles behind silicon, through chips and computer architecture, to systems and artificial intelligence.
+
+I'm particularly interested in peeling back abstractions, connecting ideas across different layers of the stack, and understanding what lies underneath.
+
+I write about technology and other things I find interesting at [KerryArch.com](https://kerryarch.com). You can also find my academic and professional profile at [Bio.KerryArch.com](https://bio.kerryarch.com).
