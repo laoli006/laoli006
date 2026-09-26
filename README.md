@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Kerry 👋
 
-I enjoy understanding computing systems from the ground up — from the physical principles behind silicon, through chips and computer architecture, to systems and artificial intelligence.
+I enjoy understanding computing systems from the ground up: from the physical principles behind silicon, through chips and computer architecture, to systems and artificial intelligence.
 
 I'm particularly interested in peeling back abstractions, connecting ideas across different layers of the stack, and understanding what lies underneath.
 
